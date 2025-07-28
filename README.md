@@ -19,7 +19,6 @@ I'm a passionate Business Analytics graduate student with a deep interest in fin
 
 <details>
 <summary>💼 Notable Projects</summary>
-<details>
 
 ---
 
