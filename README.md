@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hey there, I'm Rohith Reddy Kolanu
 
-<!--
-**Rohithreddykolanu/rohithreddykolanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MS in Business Analytics @ University of Massachusetts Amherst  
+📊 Finance Enthusiast | 📈 Derivatives Trader | 💼 Aspiring Consultant  
+🧠 Data-Driven Thinker 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a passionate Business Analytics graduate student with a deep interest in finance, markets, and strategic decision-making. My work blends analytical thinking, data analytical tools, and business intuition to solve real-world problems. From trading in the Indian stock market to analyzing industry trends and analysing data, I thrive at the intersection of data, strategy, and technology.
+
+- 🔍 **Domain Strengths**: Financial Markets, Derivatives (F&O), Data Analytics, Business Strategy  
+- 📈 **Tools & Skills**: Excel, Tableau, R, SQL, Python, XL Miner  
+- 🧠 **Currently Learning**: Python, Machine Learning, Artificial Intelligence
+- 🎯 **Goal**: Become a Management Consultant / Investment Banker and eventually launch my own startup  
+
+---
+
+<details>
+<summary>💼 Notable Projects</summary>
+<details>
+
+---
+
+**⚙️Skills**  
+- SQL, R, Excel, Tableau, Python, Microsoft Power BI
+- XL Miner, Power BI  
+- Git, VS Code
+
+---
+
+## 🏁 Fun Facts & Values
+
+- 🧘‍♂️ I value discipline, clarity, and purposeful learning    
+- 🧠 I constantly monitor global financial markets and enjoy decoding market sentiment    
+- 📚 Believer in lifelong learning
+
+---
+
+## 📬 Let’s Connect
+
+📧 Email: rohithreddy.kolanu25@gmail.com
+🔗 LinkedIn: [@rohithreddykolanu](https://www.linkedin.com/in/rohith-reddy-kolanu/) 
+📸 Instagram: [@rohithreddy259](https://www.instagram.com/rohithreddy259/) 
+🐙 GitHub: [@rohithreddykolanu](https://github.com/Rohithreddykolanu)
+
+> "Data tells stories. Finance gives them context. I bring them together with purpose."
