@@ -19,6 +19,21 @@ I'm a passionate Business Analytics graduate student with a deep interest in fin
 
 <details>
   <summary>💼 Notable Projects</summary>
+  Amazon Product Rating and Review Analysis
+  
+  ➤ Conducted data-driven analysis on 1,000+ Amazon products to evaluate pricing strategies, customer reviews, and rating distributions.
+  ➤ Explored correlations between discount percentages, ratings, and review counts to assess the impact of promotions on customer perception.
+  ➤ Applied statistical techniques and data visualization to generate actionable insights for product improvement and marketing strategies.
+
+  The Optimal Places to Work & Live in USA
+  ➤ Developed an interactive Excel dashboard to analyze state-wise economic, demographic, and quality-of-life indicators.
+  ➤ Designed dynamic charts, pivot tables, and automated calculations to enhance data interpretation.
+  ➤ Implemented data cleaning and transformation techniques for trend analysis and consistency.
+
+  Factors Influencing Cryptocurrency Investment Decisions in India
+  ➤ Investigates financial literacy, risk, expectations, social influence, and tax impacts on crypto investing.
+  ➤ Explores motivations like FOMO, blockchain utility, cross-border transactions, and diversification.
+  ➤ Uses a primary-source survey approach to gauge investor behavior, awareness, and exposure mediums.
 </details>
 
 ---
