@@ -19,6 +19,9 @@ I'm a passionate Business Analytics graduate student with a deep interest in fin
 
 <details>
   <summary>💼 Notable Projects</summary>
+
+---
+
 ## 📦 Amazon Product Rating and Review Analysis
 
 ➤ Conducted data-driven analysis on 1,000+ Amazon products to evaluate pricing strategies, customer reviews, and rating distributions.  
