@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Rohith Reddy Kolanu
 
 🎓 MS in Business Analytics @ University of Massachusetts Amherst  
-📊 Finance Enthusiast | 📈 Derivatives Trader | 💼 Aspiring Consultant  
+📊 Finance Enthusiast | 📊 Data-Driven Analyst | 🚀 Growth Investor 
 🧠 Data-Driven Thinker  
 
 ---
