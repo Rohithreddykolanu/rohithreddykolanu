@@ -1,10 +1,10 @@
 # 👋 Hey there, I'm Rohith Reddy Kolanu
 
-🤖 AI & Machine Learning Engineer | Data Scientist
-🎓 PGP in AI & ML @ UT Austin | MS Business Analytics @ UMass Amherst
-🛠 Python, SQL, Microsoft Power BI, AI, ML, Statistical Analysis, NLP, GenAI, AWS
-💼 Process Analyst @ Broadridge | Analytics & Automation
-🚀 Building scalable, data-driven solutions
+- 🤖 AI & Machine Learning Engineer | Data Scientist
+- 🎓 PGP in AI & ML @ UT Austin | MS Business Analytics @ UMass Amherst
+- 🛠 Python, SQL, Microsoft Power BI, AI, ML, Statistical Analysis, NLP, GenAI, AWS
+- 💼 Process Analyst @ Broadridge | Analytics & Automation
+- 🚀 Building scalable, data-driven solutions
 
 ---
 
