@@ -1,16 +1,17 @@
 # 👋 Hey there, I'm Rohith Reddy Kolanu
 
 - 🤖 AI & Machine Learning Engineer | Data Scientist
-- 🎓 PGP in AI & ML @ UT Austin | MS Business Analytics @ UMass Amherst
 - 🛠 Python, SQL, Microsoft Power BI, AI, ML, Statistical Analysis, NLP, GenAI, AWS
-- 💼 Process Analyst @ Broadridge | Analytics & Automation
+- 🎓 PGP in AI & ML @ UT Austin | MS Business Analytics @ UMass Amherst
 - 🚀 Building scalable, data-driven solutions
 
 ---
 
 ## 🚀 About Me
 
-I am an Artificial Intelligence and Machine Learning professional with a Post Graduate Program in AI and ML with Business Applications from The University of Texas at Austin, complemented by a Master of Science in Business Analytics from the University of Massachusetts Amherst. Backed by a strong finance foundation and prior industry experience at Broadridge, I operate at the intersection of AI, machine learning, data science, and business strategy. I leverage Python, SQL, and business intelligence tools to transform complex datasets into actionable, real-world insights that drive informed decision-making.
+I am an AI/ML Engineer specializing in designing and deploying scalable, production-ready AI solutions, with expertise in Machine Learning, Deep Learning, Generative AI, LLMs, Agentic AI, and MLOps. My technical experience spans building end-to-end ML pipelines, intelligent agentic workflows, anomaly detection systems, and cloud-native AI applications using Python, PyTorch, Scikit-learn, Snowflake ML, AWS, Docker, and Kubernetes. I focus on model optimization, automated ML lifecycle management, and developing reliable enterprise AI solutions.
+
+I hold a Master of Science in Business Analytics from the University of Massachusetts Amherst and have completed a Post Graduate Program in AI and ML with Business Applications from The University of Texas at Austin. I am passionate about bridging advanced AI technologies with real-world business challenges through intelligent automation, scalable ML infrastructure, and data-driven innovation.
 
 - 🔍 **Domain Strengths:**
 Artificial Intelligence, Machine Learning, Data Science, Business Analytics, Financial Analysis, Business Strategy, Predictive Modeling, Data-driven Decision Making, Investment Analysis, AI/ML applications in Businesses.
