@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Rohith Reddy Kolanu
 
-- 🤖 AI & Machine Learning Engineer | Data Scientist
+- 🤖 AI & Machine Learning Engineer | Data Scientist | Analytics Professional
 - 🛠 Python, SQL, Microsoft Power BI, AI, ML, Statistical Analysis, NLP, GenAI, AWS
 - 🎓 PGP in AI & ML @ UT Austin | MS Business Analytics @ UMass Amherst
 - 🚀 Building scalable, data-driven solutions
